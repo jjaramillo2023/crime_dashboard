@@ -6,7 +6,7 @@ import json
 
 st.set_page_config(
     page_title="Crime Analytics | Chicago × Seattle",
-    page_icon="🔍",
+    page_icon=None,
     layout="wide",
     initial_sidebar_state="collapsed",
 )
@@ -96,7 +96,7 @@ for col,(val,lbl) in zip([c1,c2,c3,c4,c5], cards):
 st.markdown("<br>", unsafe_allow_html=True)
 
 # ── Tabs ──────────────────────────────────────────────────────────────
-tab1, tab2, tab3 = st.tabs(["🌆  City Comparison", "🏙️  Chicago", "🌧️  Seattle"])
+tab1, tab2, tab3 = st.tabs(["City Comparison", "Chicago", "Seattle"])
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -107,11 +107,11 @@ with tab1:
     # KPI row
     st.markdown('<p class="section-label">Normalized per 100,000 residents — total period</p>', unsafe_allow_html=True)
     k1,k2,k3,k4 = st.columns(4)
-    k1.metric("🏙️ Chicago — Crime Rate",  f"{chi_ov['crimes_per_100k']:,.0f} /100k")
-    k2.metric("🌧️ Seattle — Crime Rate",  f"{sea_ov['crimes_per_100k']:,.0f} /100k",
+    k1.metric("Chicago — Crime Rate",  f"{chi_ov['crimes_per_100k']:,.0f} /100k")
+    k2.metric("Seattle — Crime Rate",  f"{sea_ov['crimes_per_100k']:,.0f} /100k",
               delta=f"{sea_ov['crimes_per_100k']-chi_ov['crimes_per_100k']:+,.0f} vs Chicago")
-    k3.metric("🏙️ Chicago — Arrest Rate", f"{chi_ov['arrest_rate']:.1f}%")
-    k4.metric("🏙️ Chicago — Domestic %",  f"{chi_ov['domestic_rate']:.1f}%",
+    k3.metric("Chicago — Arrest Rate", f"{chi_ov['arrest_rate']:.1f}%")
+    k4.metric("Chicago — Domestic %",  f"{chi_ov['domestic_rate']:.1f}%",
               help="% of crimes flagged as domestic incidents (Seattle data does not include this field)")
 
     st.markdown("---")
@@ -149,8 +149,8 @@ with tab1:
     hcol1, hcol2 = st.columns(2)
 
     for col, city, cscale, label in [
-        (hcol1, "Chicago", [[0,"#1a0a00"],[1,"#FF6B35"]], "🏙️ Chicago"),
-        (hcol2, "Seattle", [[0,"#001a19"],[1,"#4ECDC4"]], "🌧️ Seattle"),
+        (hcol1, "Chicago", [[0,"#1a0a00"],[1,"#FF6B35"]], "Chicago"),
+        (hcol2, "Seattle", [[0,"#001a19"],[1,"#4ECDC4"]], "Seattle"),
     ]:
         with col:
             st.markdown(f"**{label}**")
@@ -196,7 +196,7 @@ with tab2:
     map_col, stat_col = st.columns([3,1])
 
     with stat_col:
-        st.markdown("### 🏙️ Chicago")
+        st.markdown("### Chicago")
         st.metric("Total Crimes",    f"{int(chi_ov['total_crimes']):,}")
         st.metric("Period",          f"{int(chi_ov['year_min'])}–{int(chi_ov['year_max'])}")
         st.metric("Neighborhoods",   int(chi_ov["neighborhood_count"]))
@@ -232,7 +232,7 @@ with tab2:
     r1, r2 = st.columns(2)
 
     with r1:
-        st.markdown("**🔴 Top 10 — Most Crimes**")
+        st.markdown("**Top 10 — Most Crimes**")
         top10 = chi_neigh.nlargest(10,"crime_count").sort_values("crime_count")
         fig = px.bar(top10, x="crime_count", y="neighborhood", orientation="h",
                      template=TEMPLATE, color_discrete_sequence=[CHI_COLOR],
@@ -243,7 +243,7 @@ with tab2:
         st.plotly_chart(fig, use_container_width=True)
 
     with r2:
-        st.markdown("**🟢 Bottom 10 — Safest Neighborhoods**")
+        st.markdown("**Bottom 10 — Safest Neighborhoods**")
         bot10 = chi_neigh.nsmallest(10,"crime_count").sort_values("crime_count",ascending=False)
         fig = px.bar(bot10, x="crime_count", y="neighborhood", orientation="h",
                      template=TEMPLATE, color_discrete_sequence=["#2ECC71"],
@@ -304,7 +304,7 @@ with tab3:
     map_col, stat_col = st.columns([3,1])
 
     with stat_col:
-        st.markdown("### 🌧️ Seattle")
+        st.markdown("### Seattle")
         st.metric("Total Crimes",  f"{int(sea_ov['total_crimes']):,}")
         st.metric("Period",        f"{int(sea_ov['year_min'])}–{int(sea_ov['year_max'])}")
         st.metric("Neighborhoods", int(sea_ov["neighborhood_count"]))
@@ -338,7 +338,7 @@ with tab3:
     r1, r2 = st.columns(2)
 
     with r1:
-        st.markdown("**🔴 Top 10 — Most Crimes**")
+        st.markdown("**Top 10 — Most Crimes**")
         top10 = sea_neigh.nlargest(10,"crime_count").sort_values("crime_count")
         fig = px.bar(top10, x="crime_count", y="neighborhood", orientation="h",
                      template=TEMPLATE, color_discrete_sequence=[SEA_COLOR],
@@ -349,7 +349,7 @@ with tab3:
         st.plotly_chart(fig, use_container_width=True)
 
     with r2:
-        st.markdown("**🟢 Bottom 10 — Safest Neighborhoods**")
+        st.markdown("**Bottom 10 — Safest Neighborhoods**")
         bot10 = sea_neigh.nsmallest(10,"crime_count").sort_values("crime_count",ascending=False)
         fig = px.bar(bot10, x="crime_count", y="neighborhood", orientation="h",
                      template=TEMPLATE, color_discrete_sequence=["#2ECC71"],
