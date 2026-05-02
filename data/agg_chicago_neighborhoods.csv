@@ -1,0 +1,99 @@
+neighborhood,crime_count,arrest_rate,top_category
+Albany Park,64849,23.87,Assault
+Andersonville,8608,15.68,Theft
+Archer Heights,26170,19.3,Theft
+Armour Square,16874,32.39,Assault
+Ashburn,65055,16.34,Assault
+Auburn Gresham,207721,26.33,Assault
+Austin,439171,39.81,Assault
+Avalon Park,34285,17.3,Assault
+Avondale,67035,19.99,Theft
+Belmont Cragin,135772,24.24,Assault
+Beverly,26136,14.82,Theft
+Boystown,9518,25.1,Theft
+Bridgeport,47082,19.47,Assault
+Brighton Park,72216,26.08,Assault
+Bucktown,34012,16.0,Theft
+Burnside,11297,21.5,Assault
+Calumet Heights,42513,19.33,Assault
+Chatham,153571,25.21,Assault
+Chicago Lawn,178504,27.07,Assault
+Chinatown,12171,19.78,Theft
+Clearing,29390,16.34,Assault
+Douglas,83589,37.33,Assault
+Dunning,42812,16.03,Theft
+East Side,36094,21.13,Assault
+East Village,13809,16.18,Theft
+Edgewater,64842,23.88,Theft
+Edison Park,6716,11.72,Theft
+Englewood,406962,28.95,Assault
+Fuller Park,22884,35.77,Assault
+Gage Park,67388,25.89,Assault
+Galewood,14890,14.71,Theft
+Garfield Park,271754,41.73,Assault
+Garfield Ridge,60916,24.78,Theft
+Gold Coast,13834,19.39,Theft
+Grand Boulevard,103704,29.05,Assault
+Grand Crossing,176399,26.93,Assault
+Grant Park,5429,26.75,Theft
+Greektown,4856,28.83,Theft
+Hegewisch,16123,18.05,Assault
+Hermosa,42076,25.84,Assault
+Humboldt Park,274496,36.63,Assault
+Hyde Park,46296,15.88,Theft
+Irving Park,84335,19.36,Theft
+Jackson Park,6564,24.06,Theft
+Jefferson Park,28709,17.09,Theft
+Kenwood,42593,18.88,Assault
+Lake View,122081,18.45,Theft
+Lincoln Park,82882,14.69,Theft
+Lincoln Square,54254,19.25,Theft
+"Little Italy, UIC",73919,25.41,Theft
+Little Village,125922,28.33,Assault
+Logan Square,122166,21.54,Theft
+Loop,159040,25.84,Theft
+Lower West Side,69670,27.5,Assault
+Magnificent Mile,27645,32.22,Theft
+Mckinley Park,30519,24.09,Theft
+Millenium Park,4350,11.17,Theft
+Montclare,17281,15.24,Theft
+Morgan Park,57009,21.99,Assault
+Mount Greenwood,15130,16.22,Theft
+Museum Campus,4385,23.67,Theft
+Near South Side,52492,33.11,Theft
+New City,146326,33.39,Assault
+North Center,44554,19.88,Theft
+North Lawndale,210086,37.92,Assault
+North Park,24677,18.01,Theft
+Norwood Park,31337,14.78,Theft
+O'Hare,38989,23.57,Theft
+Oakland,17506,20.67,Assault
+Old Town,44287,20.95,Theft
+Portage Park,93248,22.65,Theft
+Printers Row,8459,29.42,Theft
+Pullman,27753,23.46,Assault
+River North,126090,29.06,Theft
+Riverdale,32839,24.19,Assault
+Rogers Park,110507,26.41,Assault
+Roseland,194394,27.02,Assault
+Rush & Division,25539,29.46,Theft
+"Sauganash,Forest Glen",12916,11.27,Theft
+Sheffield & DePaul,17701,16.06,Theft
+South Chicago,134742,26.0,Assault
+South Deering,47964,22.61,Assault
+South Shore,236948,23.64,Assault
+Streeterville,34644,17.0,Theft
+Ukrainian Village,20148,19.84,Theft
+United Center,62908,34.39,Assault
+Uptown,109362,31.79,Theft
+Washington Heights,85824,22.76,Assault
+Washington Park,76983,28.61,Assault
+West Elsdon,26793,18.69,Theft
+West Lawn,53584,23.51,Theft
+West Loop,79751,20.37,Theft
+West Pullman,117140,24.9,Assault
+West Ridge,90151,16.58,Theft
+West Town,73306,14.68,Theft
+Wicker Park,67066,18.89,Theft
+Woodlawn,121174,30.34,Assault
+Wrigleyville,12629,23.83,Theft

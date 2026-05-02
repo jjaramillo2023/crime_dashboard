@@ -1,0 +1,576 @@
+year,crime_category,crime_count,city,pct_of_year
+2001,Arson,1005,Chicago,0.21
+2001,Assault,124790,Chicago,25.84
+2001,Burglary,25943,Chicago,5.37
+2001,Domestic / Family,1,Chicago,0.0
+2001,Drugs,50324,Chicago,10.42
+2001,Fraud,14774,Chicago,3.06
+2001,Gambling,933,Chicago,0.19
+2001,Homicide,630,Chicago,0.13
+2001,Kidnapping,924,Chicago,0.19
+2001,Offenses Involving Minors,2208,Chicago,0.46
+2001,Other,29574,Chicago,6.12
+2001,Prostitution,6007,Chicago,1.24
+2001,Public Corruption,405,Chicago,0.08
+2001,Public Disorder,4346,Chicago,0.9
+2001,Robbery,18292,Chicago,3.79
+2001,Sex Offenses,3939,Chicago,0.82
+2001,Theft,98447,Chicago,20.39
+2001,Trespassing,13182,Chicago,2.73
+2001,Vandalism,55590,Chicago,11.51
+2001,Vehicle Theft,27282,Chicago,5.65
+2001,Weapons,4246,Chicago,0.88
+2002,Arson,978,Chicago,0.21
+2002,Assault,122977,Chicago,26.08
+2002,Burglary,25221,Chicago,5.35
+2002,Drugs,49829,Chicago,10.57
+2002,Fraud,13237,Chicago,2.81
+2002,Gambling,947,Chicago,0.2
+2002,Homicide,629,Chicago,0.13
+2002,Kidnapping,803,Chicago,0.17
+2002,Offenses Involving Minors,2397,Chicago,0.51
+2002,Other,31816,Chicago,6.75
+2002,Prostitution,6030,Chicago,1.28
+2002,Public Corruption,345,Chicago,0.07
+2002,Public Disorder,3725,Chicago,0.79
+2002,Robbery,17740,Chicago,3.76
+2002,Sex Offenses,3782,Chicago,0.8
+2002,Theft,95363,Chicago,20.23
+2002,Trespassing,13570,Chicago,2.88
+2002,Vandalism,54709,Chicago,11.6
+2002,Vehicle Theft,23255,Chicago,4.93
+2002,Weapons,4149,Chicago,0.88
+2003,Arson,953,Chicago,0.2
+2003,Assault,117734,Chicago,24.94
+2003,Burglary,25010,Chicago,5.3
+2003,Drugs,53765,Chicago,11.39
+2003,Fraud,13255,Chicago,2.81
+2003,Gambling,1083,Chicago,0.23
+2003,Homicide,562,Chicago,0.12
+2003,Kidnapping,700,Chicago,0.15
+2003,Offenses Involving Minors,2893,Chicago,0.61
+2003,Other,30920,Chicago,6.55
+2003,Prostitution,6161,Chicago,1.31
+2003,Public Corruption,408,Chicago,0.09
+2003,Public Disorder,3715,Chicago,0.79
+2003,Robbery,17235,Chicago,3.65
+2003,Sex Offenses,3544,Chicago,0.75
+2003,Theft,97804,Chicago,20.72
+2003,Trespassing,14687,Chicago,3.11
+2003,Vandalism,54694,Chicago,11.59
+2003,Vehicle Theft,22677,Chicago,4.8
+2003,Weapons,4199,Chicago,0.89
+2004,Arson,774,Chicago,0.17
+2004,Assault,116323,Chicago,24.9
+2004,Burglary,24520,Chicago,5.25
+2004,Drugs,56891,Chicago,12.18
+2004,Fraud,13080,Chicago,2.8
+2004,Gambling,1119,Chicago,0.24
+2004,Homicide,437,Chicago,0.09
+2004,Kidnapping,479,Chicago,0.1
+2004,Offenses Involving Minors,2906,Chicago,0.62
+2004,Other,29466,Chicago,6.31
+2004,Prostitution,7468,Chicago,1.6
+2004,Public Corruption,524,Chicago,0.11
+2004,Public Disorder,3475,Chicago,0.74
+2004,Robbery,15951,Chicago,3.41
+2004,Sex Offenses,3203,Chicago,0.69
+2004,Theft,94642,Chicago,20.26
+2004,Trespassing,15834,Chicago,3.39
+2004,Vandalism,53070,Chicago,11.36
+2004,Vehicle Theft,22747,Chicago,4.87
+2004,Weapons,4285,Chicago,0.92
+2005,Arson,688,Chicago,0.15
+2005,Assault,111049,Chicago,24.68
+2005,Burglary,25413,Chicago,5.65
+2005,Drugs,55959,Chicago,12.44
+2005,Fraud,13153,Chicago,2.92
+2005,Gambling,1073,Chicago,0.24
+2005,Homicide,445,Chicago,0.1
+2005,Kidnapping,389,Chicago,0.09
+2005,Offenses Involving Minors,2670,Chicago,0.59
+2005,Other,27834,Chicago,6.19
+2005,Prostitution,6097,Chicago,1.36
+2005,Public Corruption,605,Chicago,0.13
+2005,Public Disorder,3722,Chicago,0.83
+2005,Robbery,15988,Chicago,3.55
+2005,Sex Offenses,3155,Chicago,0.7
+2005,Theft,84304,Chicago,18.74
+2005,Trespassing,16569,Chicago,3.68
+2005,Vandalism,54351,Chicago,12.08
+2005,Vehicle Theft,22384,Chicago,4.98
+2005,Weapons,4074,Chicago,0.91
+2006,Arson,726,Chicago,0.16
+2006,Assault,106961,Chicago,24.01
+2006,Burglary,24304,Chicago,5.45
+2006,Drugs,55341,Chicago,12.42
+2006,Fraud,13266,Chicago,2.98
+2006,Gambling,1357,Chicago,0.3
+2006,Homicide,458,Chicago,0.1
+2006,Kidnapping,339,Chicago,0.08
+2006,Offenses Involving Minors,2600,Chicago,0.58
+2006,Other,27059,Chicago,6.07
+2006,Prostitution,6955,Chicago,1.56
+2006,Public Corruption,757,Chicago,0.17
+2006,Public Disorder,4183,Chicago,0.94
+2006,Robbery,15945,Chicago,3.58
+2006,Sex Offenses,2890,Chicago,0.65
+2006,Theft,85233,Chicago,19.13
+2006,Trespassing,14488,Chicago,3.25
+2006,Vandalism,57076,Chicago,12.81
+2006,Vehicle Theft,21785,Chicago,4.89
+2006,Weapons,3817,Chicago,0.86
+2007,Arson,710,Chicago,0.16
+2007,Assault,106337,Chicago,24.41
+2007,Burglary,24838,Chicago,5.7
+2007,Drugs,54424,Chicago,12.49
+2007,Fraud,13870,Chicago,3.18
+2007,Gambling,1409,Chicago,0.32
+2007,Homicide,430,Chicago,0.1
+2007,Kidnapping,329,Chicago,0.08
+2007,Offenses Involving Minors,2760,Chicago,0.63
+2007,Other,26837,Chicago,6.16
+2007,Prostitution,6084,Chicago,1.4
+2007,Public Corruption,675,Chicago,0.15
+2007,Public Disorder,4484,Chicago,1.03
+2007,Robbery,15445,Chicago,3.54
+2007,Sex Offenses,2950,Chicago,0.68
+2007,Theft,84600,Chicago,19.42
+2007,Trespassing,13691,Chicago,3.14
+2007,Vandalism,53716,Chicago,12.33
+2007,Vehicle Theft,18553,Chicago,4.26
+2007,Weapons,3547,Chicago,0.81
+2008,Arson,642,Chicago,0.15
+2008,Assault,101140,Chicago,24.09
+2008,Burglary,25994,Chicago,6.19
+2008,Drugs,45068,Chicago,10.73
+2008,Fraud,14272,Chicago,3.4
+2008,Gambling,1178,Chicago,0.28
+2008,Homicide,489,Chicago,0.12
+2008,Kidnapping,357,Chicago,0.09
+2008,Offenses Involving Minors,2439,Chicago,0.58
+2008,Other,26110,Chicago,6.22
+2008,Prostitution,5089,Chicago,1.21
+2008,Public Corruption,574,Chicago,0.14
+2008,Public Disorder,3891,Chicago,0.93
+2008,Robbery,16579,Chicago,3.95
+2008,Sex Offenses,2812,Chicago,0.67
+2008,Theft,86365,Chicago,20.57
+2008,Trespassing,12219,Chicago,2.91
+2008,Vandalism,52191,Chicago,12.43
+2008,Vehicle Theft,18619,Chicago,4.43
+2008,Weapons,3825,Chicago,0.91
+2009,Arson,611,Chicago,0.16
+2009,Assault,90743,Chicago,23.51
+2009,Burglary,26474,Chicago,6.86
+2009,Drugs,42159,Chicago,10.92
+2009,Fraud,13272,Chicago,3.44
+2009,Gambling,963,Chicago,0.25
+2009,Homicide,442,Chicago,0.11
+2009,Kidnapping,290,Chicago,0.08
+2009,Offenses Involving Minors,2402,Chicago,0.62
+2009,Other,25253,Chicago,6.54
+2009,Prostitution,3900,Chicago,1.01
+2009,Public Corruption,564,Chicago,0.15
+2009,Public Disorder,3857,Chicago,1.0
+2009,Robbery,15842,Chicago,4.1
+2009,Sex Offenses,2492,Chicago,0.65
+2009,Theft,79286,Chicago,20.54
+2009,Trespassing,10745,Chicago,2.78
+2009,Vandalism,47245,Chicago,12.24
+2009,Vehicle Theft,15310,Chicago,3.97
+2009,Weapons,4079,Chicago,1.06
+2010,Arson,522,Chicago,0.14
+2010,Assault,87300,Chicago,23.6
+2010,Burglary,26417,Chicago,7.14
+2010,Drugs,43391,Chicago,11.73
+2010,Fraud,12327,Chicago,3.33
+2010,Gambling,927,Chicago,0.25
+2010,Homicide,410,Chicago,0.11
+2010,Kidnapping,313,Chicago,0.08
+2010,Offenses Involving Minors,2513,Chicago,0.68
+2010,Other,22014,Chicago,5.95
+2010,Prostitution,2483,Chicago,0.67
+2010,Public Corruption,796,Chicago,0.22
+2010,Public Disorder,4274,Chicago,1.16
+2010,Robbery,14267,Chicago,3.86
+2010,Sex Offenses,2473,Chicago,0.67
+2010,Theft,76729,Chicago,20.74
+2010,Trespassing,9401,Chicago,2.54
+2010,Vandalism,40642,Chicago,10.99
+2010,Vehicle Theft,19022,Chicago,5.14
+2010,Weapons,3703,Chicago,1.0
+2011,Arson,504,Chicago,0.14
+2011,Assault,81189,Chicago,23.11
+2011,Burglary,26614,Chicago,7.58
+2011,Drugs,38576,Chicago,10.98
+2011,Fraud,12385,Chicago,3.53
+2011,Gambling,736,Chicago,0.21
+2011,Homicide,423,Chicago,0.12
+2011,Kidnapping,266,Chicago,0.08
+2011,Offenses Involving Minors,2300,Chicago,0.65
+2011,Other,20202,Chicago,5.75
+2011,Prostitution,2424,Chicago,0.69
+2011,Public Corruption,1047,Chicago,0.3
+2011,Public Disorder,3711,Chicago,1.06
+2011,Robbery,13974,Chicago,3.98
+2011,Sex Offenses,2553,Chicago,0.73
+2011,Theft,75106,Chicago,21.38
+2011,Trespassing,8655,Chicago,2.46
+2011,Vandalism,37320,Chicago,10.63
+2011,Vehicle Theft,19383,Chicago,5.52
+2011,Weapons,3879,Chicago,1.1
+2012,Arson,469,Chicago,0.14
+2012,Assault,79376,Chicago,23.66
+2012,Burglary,22832,Chicago,6.81
+2012,Drugs,35473,Chicago,10.58
+2012,Fraud,13276,Chicago,3.96
+2012,Gambling,724,Chicago,0.22
+2012,Homicide,490,Chicago,0.15
+2012,Kidnapping,235,Chicago,0.07
+2012,Offenses Involving Minors,2186,Chicago,0.65
+2012,Other,17538,Chicago,5.23
+2012,Prostitution,2203,Chicago,0.66
+2012,Public Corruption,1228,Chicago,0.37
+2012,Public Disorder,3579,Chicago,1.07
+2012,Robbery,13471,Chicago,4.02
+2012,Sex Offenses,2452,Chicago,0.73
+2012,Theft,75440,Chicago,22.49
+2012,Trespassing,8215,Chicago,2.45
+2012,Vandalism,35850,Chicago,10.69
+2012,Vehicle Theft,16483,Chicago,4.91
+2012,Weapons,3904,Chicago,1.16
+2013,Arson,363,Chicago,0.12
+2013,Assault,72243,Chicago,23.58
+2013,Burglary,17885,Chicago,5.84
+2013,Drugs,34108,Chicago,11.13
+2013,Fraud,13246,Chicago,4.32
+2013,Gambling,596,Chicago,0.19
+2013,Homicide,418,Chicago,0.14
+2013,Human Trafficking,1,Chicago,0.0
+2013,Kidnapping,242,Chicago,0.08
+2013,Offenses Involving Minors,2306,Chicago,0.75
+2013,Other,18035,Chicago,5.89
+2013,Prostitution,1652,Chicago,0.54
+2013,Public Corruption,1281,Chicago,0.42
+2013,Public Disorder,3600,Chicago,1.18
+2013,Robbery,11817,Chicago,3.86
+2013,Sex Offenses,2281,Chicago,0.74
+2013,Theft,71499,Chicago,23.34
+2013,Trespassing,8135,Chicago,2.66
+2013,Vandalism,30848,Chicago,10.07
+2013,Vehicle Theft,12574,Chicago,4.1
+2013,Weapons,3245,Chicago,1.06
+2014,Arson,396,Chicago,0.14
+2014,Assault,66553,Chicago,24.31
+2014,Burglary,14560,Chicago,5.32
+2014,Drugs,28914,Chicago,10.56
+2014,Fraud,14884,Chicago,5.44
+2014,Gambling,393,Chicago,0.14
+2014,Homicide,421,Chicago,0.15
+2014,Human Trafficking,2,Chicago,0.0
+2014,Kidnapping,220,Chicago,0.08
+2014,Offenses Involving Minors,2286,Chicago,0.84
+2014,Other,17002,Chicago,6.21
+2014,Prostitution,1622,Chicago,0.59
+2014,Public Corruption,1398,Chicago,0.51
+2014,Public Disorder,3296,Chicago,1.2
+2014,Robbery,9791,Chicago,3.58
+2014,Sex Offenses,2210,Chicago,0.81
+2014,Theft,61454,Chicago,22.45
+2014,Trespassing,7536,Chicago,2.75
+2014,Vandalism,27777,Chicago,10.15
+2014,Vehicle Theft,9894,Chicago,3.61
+2014,Weapons,3124,Chicago,1.14
+2015,Arson,453,Chicago,0.18
+2015,Assault,66072,Chicago,25.62
+2015,Burglary,13101,Chicago,5.08
+2015,Drugs,21612,Chicago,8.38
+2015,Fraud,14085,Chicago,5.46
+2015,Gambling,310,Chicago,0.12
+2015,Homicide,475,Chicago,0.18
+2015,Human Trafficking,13,Chicago,0.01
+2015,Kidnapping,189,Chicago,0.07
+2015,Offenses Involving Minors,2051,Chicago,0.8
+2015,Other,17325,Chicago,6.72
+2015,Prostitution,1322,Chicago,0.51
+2015,Public Corruption,1307,Chicago,0.51
+2015,Public Disorder,2705,Chicago,1.05
+2015,Robbery,9632,Chicago,3.74
+2015,Sex Offenses,2182,Chicago,0.85
+2015,Theft,56696,Chicago,21.99
+2015,Trespassing,6391,Chicago,2.48
+2015,Vandalism,28588,Chicago,11.09
+2015,Vehicle Theft,10003,Chicago,3.88
+2015,Weapons,3367,Chicago,1.31
+2016,Arson,515,Chicago,0.19
+2016,Assault,69273,Chicago,25.93
+2016,Burglary,14279,Chicago,5.34
+2016,Drugs,13261,Chicago,4.96
+2016,Fraud,18148,Chicago,6.79
+2016,Gambling,189,Chicago,0.07
+2016,Homicide,752,Chicago,0.28
+2016,Human Trafficking,11,Chicago,0.0
+2016,Kidnapping,202,Chicago,0.08
+2016,Offenses Involving Minors,2286,Chicago,0.86
+2016,Other,17266,Chicago,6.46
+2016,Prostitution,800,Chicago,0.3
+2016,Public Corruption,934,Chicago,0.35
+2016,Public Disorder,1827,Chicago,0.68
+2016,Robbery,11950,Chicago,4.47
+2016,Sex Offenses,2495,Chicago,0.93
+2016,Theft,61035,Chicago,22.84
+2016,Trespassing,6295,Chicago,2.36
+2016,Vandalism,30931,Chicago,11.58
+2016,Vehicle Theft,11269,Chicago,4.22
+2016,Weapons,3484,Chicago,1.3
+2017,Arson,444,Chicago,0.17
+2017,Assault,68722,Chicago,25.94
+2017,Burglary,12946,Chicago,4.89
+2017,Drugs,11486,Chicago,4.34
+2017,Fraud,17766,Chicago,6.71
+2017,Gambling,191,Chicago,0.07
+2017,Homicide,628,Chicago,0.24
+2017,Human Trafficking,6,Chicago,0.0
+2017,Kidnapping,190,Chicago,0.07
+2017,Offenses Involving Minors,2151,Chicago,0.81
+2017,Other,17010,Chicago,6.42
+2017,Prostitution,734,Chicago,0.28
+2017,Public Corruption,1083,Chicago,0.41
+2017,Public Disorder,1687,Chicago,0.64
+2017,Robbery,11868,Chicago,4.48
+2017,Sex Offenses,2543,Chicago,0.96
+2017,Theft,63585,Chicago,24.0
+2017,Trespassing,6798,Chicago,2.57
+2017,Vandalism,28955,Chicago,10.93
+2017,Vehicle Theft,11339,Chicago,4.28
+2017,Weapons,4751,Chicago,1.79
+2018,Arson,373,Chicago,0.14
+2018,Assault,70420,Chicago,26.73
+2018,Burglary,11682,Chicago,4.43
+2018,Drugs,12798,Chicago,4.86
+2018,Fraud,17857,Chicago,6.78
+2018,Gambling,201,Chicago,0.08
+2018,Homicide,575,Chicago,0.22
+2018,Human Trafficking,12,Chicago,0.0
+2018,Kidnapping,171,Chicago,0.06
+2018,Offenses Involving Minors,2164,Chicago,0.82
+2018,Other,17003,Chicago,6.45
+2018,Prostitution,717,Chicago,0.27
+2018,Public Corruption,1305,Chicago,0.5
+2018,Public Disorder,1629,Chicago,0.62
+2018,Robbery,9678,Chicago,3.67
+2018,Sex Offenses,2768,Chicago,1.05
+2018,Theft,64022,Chicago,24.3
+2018,Trespassing,6881,Chicago,2.61
+2018,Vandalism,27698,Chicago,10.51
+2018,Vehicle Theft,9933,Chicago,3.77
+2018,Weapons,5592,Chicago,2.12
+2019,Arson,374,Chicago,0.14
+2019,Assault,70451,Chicago,27.21
+2019,Burglary,9630,Chicago,3.72
+2019,Drugs,14995,Chicago,5.79
+2019,Fraud,18171,Chicago,7.02
+2019,Gambling,142,Chicago,0.05
+2019,Homicide,489,Chicago,0.19
+2019,Human Trafficking,13,Chicago,0.01
+2019,Kidnapping,172,Chicago,0.07
+2019,Offenses Involving Minors,2309,Chicago,0.89
+2019,Other,16726,Chicago,6.46
+2019,Prostitution,680,Chicago,0.26
+2019,Public Corruption,1544,Chicago,0.6
+2019,Public Disorder,1750,Chicago,0.68
+2019,Robbery,7989,Chicago,3.09
+2019,Sex Offenses,2930,Chicago,1.13
+2019,Theft,61660,Chicago,23.81
+2019,Trespassing,6805,Chicago,2.63
+2019,Vandalism,26607,Chicago,10.27
+2019,Vehicle Theft,8959,Chicago,3.46
+2019,Weapons,6555,Chicago,2.53
+2020,Arson,421,Chicago,0.28
+2020,Assault,44537,Chicago,29.49
+2020,Burglary,6458,Chicago,4.28
+2020,Drugs,5580,Chicago,3.69
+2020,Fraud,9653,Chicago,6.39
+2020,Gambling,17,Chicago,0.01
+2020,Homicide,764,Chicago,0.51
+2020,Human Trafficking,2,Chicago,0.0
+2020,Kidnapping,93,Chicago,0.06
+2020,Offenses Involving Minors,1300,Chicago,0.86
+2020,Other,9057,Chicago,6.0
+2020,Prostitution,229,Chicago,0.15
+2020,Public Corruption,523,Chicago,0.35
+2020,Public Disorder,1141,Chicago,0.76
+2020,Robbery,5643,Chicago,3.74
+2020,Sex Offenses,1531,Chicago,1.01
+2020,Theft,29916,Chicago,19.81
+2020,Trespassing,3199,Chicago,2.12
+2020,Vandalism,18082,Chicago,11.97
+2020,Vehicle Theft,6858,Chicago,4.54
+2020,Weapons,6021,Chicago,3.99
+2021,Arson,2,Chicago,0.18
+2021,Assault,119,Chicago,10.79
+2021,Burglary,18,Chicago,1.63
+2021,Fraud,8,Chicago,0.73
+2021,Homicide,773,Chicago,70.08
+2021,Kidnapping,1,Chicago,0.09
+2021,Offenses Involving Minors,21,Chicago,1.9
+2021,Other,8,Chicago,0.73
+2021,Public Disorder,1,Chicago,0.09
+2021,Robbery,52,Chicago,4.71
+2021,Sex Offenses,32,Chicago,2.9
+2021,Theft,39,Chicago,3.54
+2021,Trespassing,1,Chicago,0.09
+2021,Vandalism,6,Chicago,0.54
+2021,Vehicle Theft,14,Chicago,1.27
+2021,Weapons,8,Chicago,0.73
+2022,Arson,12,Chicago,0.36
+2022,Assault,369,Chicago,10.96
+2022,Burglary,91,Chicago,2.7
+2022,Drugs,77,Chicago,2.29
+2022,Fraud,645,Chicago,19.16
+2022,Homicide,676,Chicago,20.08
+2022,Kidnapping,1,Chicago,0.03
+2022,Offenses Involving Minors,96,Chicago,2.85
+2022,Other,171,Chicago,5.08
+2022,Public Corruption,3,Chicago,0.09
+2022,Public Disorder,6,Chicago,0.18
+2022,Robbery,120,Chicago,3.56
+2022,Sex Offenses,135,Chicago,4.01
+2022,Theft,570,Chicago,16.93
+2022,Trespassing,16,Chicago,0.48
+2022,Vandalism,156,Chicago,4.63
+2022,Vehicle Theft,196,Chicago,5.82
+2022,Weapons,27,Chicago,0.8
+2023,Arson,185,Chicago,0.21
+2023,Assault,22190,Chicago,24.97
+2023,Burglary,2608,Chicago,2.93
+2023,Drugs,1829,Chicago,2.06
+2023,Fraud,6103,Chicago,6.87
+2023,Gambling,8,Chicago,0.01
+2023,Homicide,602,Chicago,0.68
+2023,Human Trafficking,4,Chicago,0.0
+2023,Kidnapping,39,Chicago,0.04
+2023,Offenses Involving Minors,651,Chicago,0.73
+2023,Other,5285,Chicago,5.95
+2023,Prostitution,41,Chicago,0.05
+2023,Public Corruption,196,Chicago,0.22
+2023,Public Disorder,334,Chicago,0.38
+2023,Robbery,4376,Chicago,4.92
+2023,Sex Offenses,1130,Chicago,1.27
+2023,Theft,20226,Chicago,22.76
+2023,Trespassing,1552,Chicago,1.75
+2023,Vandalism,9766,Chicago,10.99
+2023,Vehicle Theft,9194,Chicago,10.34
+2023,Weapons,2563,Chicago,2.88
+2024,Arson,175,Chicago,0.19
+2024,Assault,25659,Chicago,27.76
+2024,Burglary,2705,Chicago,2.93
+2024,Drugs,2247,Chicago,2.43
+2024,Fraud,5450,Chicago,5.9
+2024,Gambling,7,Chicago,0.01
+2024,Homicide,170,Chicago,0.18
+2024,Human Trafficking,2,Chicago,0.0
+2024,Kidnapping,33,Chicago,0.04
+2024,Offenses Involving Minors,698,Chicago,0.76
+2024,Other,6453,Chicago,6.98
+2024,Prostitution,90,Chicago,0.1
+2024,Public Corruption,244,Chicago,0.26
+2024,Public Disorder,399,Chicago,0.43
+2024,Robbery,3382,Chicago,3.66
+2024,Sex Offenses,1003,Chicago,1.09
+2024,Theft,20320,Chicago,21.99
+2024,Trespassing,1787,Chicago,1.93
+2024,Vandalism,10391,Chicago,11.24
+2024,Vehicle Theft,8173,Chicago,8.84
+2024,Weapons,3028,Chicago,3.28
+2008,Arson,53,Seattle,0.11
+2008,Other,42679,Seattle,91.75
+2008,Robbery,1129,Seattle,2.43
+2008,Vehicle Theft,2364,Seattle,5.08
+2008,Weapons,292,Seattle,0.63
+2009,Arson,106,Seattle,0.22
+2009,Other,44037,Seattle,91.76
+2009,Robbery,1324,Seattle,2.76
+2009,Vehicle Theft,2223,Seattle,4.63
+2009,Weapons,301,Seattle,0.63
+2010,Arson,78,Seattle,0.17
+2010,Other,42365,Seattle,91.9
+2010,Robbery,1065,Seattle,2.31
+2010,Vehicle Theft,2310,Seattle,5.01
+2010,Weapons,283,Seattle,0.61
+2011,Arson,57,Seattle,0.13
+2011,Other,39830,Seattle,91.41
+2011,Robbery,1056,Seattle,2.42
+2011,Vehicle Theft,2302,Seattle,5.28
+2011,Weapons,326,Seattle,0.75
+2012,Arson,58,Seattle,0.13
+2012,Other,39757,Seattle,91.23
+2012,Robbery,1141,Seattle,2.62
+2012,Vehicle Theft,2346,Seattle,5.38
+2012,Weapons,278,Seattle,0.64
+2013,Arson,47,Seattle,0.1
+2013,Other,43041,Seattle,90.61
+2013,Robbery,1276,Seattle,2.69
+2013,Vehicle Theft,2862,Seattle,6.03
+2013,Weapons,276,Seattle,0.58
+2014,Arson,48,Seattle,0.09
+2014,Other,46298,Seattle,89.78
+2014,Robbery,1271,Seattle,2.46
+2014,Vehicle Theft,3706,Seattle,7.19
+2014,Weapons,248,Seattle,0.48
+2015,Arson,66,Seattle,0.13
+2015,Other,46258,Seattle,91.39
+2015,Robbery,1247,Seattle,2.46
+2015,Vehicle Theft,2673,Seattle,5.28
+2015,Weapons,374,Seattle,0.74
+2016,Arson,77,Seattle,0.15
+2016,Other,47284,Seattle,91.35
+2016,Robbery,1291,Seattle,2.49
+2016,Vehicle Theft,2790,Seattle,5.39
+2016,Weapons,317,Seattle,0.61
+2017,Arson,141,Seattle,0.21
+2017,Other,61499,Seattle,91.47
+2017,Robbery,1364,Seattle,2.03
+2017,Vehicle Theft,3790,Seattle,5.64
+2017,Weapons,438,Seattle,0.65
+2018,Arson,111,Seattle,0.16
+2018,Other,62403,Seattle,90.93
+2018,Robbery,1511,Seattle,2.2
+2018,Vehicle Theft,4112,Seattle,5.99
+2018,Weapons,491,Seattle,0.72
+2019,Arson,95,Seattle,0.15
+2019,Other,56612,Seattle,90.77
+2019,Robbery,1369,Seattle,2.19
+2019,Vehicle Theft,3924,Seattle,6.29
+2019,Weapons,372,Seattle,0.6
+2020,Arson,151,Seattle,0.22
+2020,Other,62180,Seattle,90.83
+2020,Robbery,1263,Seattle,1.84
+2020,Vehicle Theft,4471,Seattle,6.53
+2020,Weapons,391,Seattle,0.57
+2021,Arson,211,Seattle,0.34
+2021,Other,56034,Seattle,89.65
+2021,Robbery,1508,Seattle,2.41
+2021,Vehicle Theft,4389,Seattle,7.02
+2021,Weapons,360,Seattle,0.58
+2022,Arson,161,Seattle,0.24
+2022,Other,58349,Seattle,88.27
+2022,Robbery,1493,Seattle,2.26
+2022,Vehicle Theft,5630,Seattle,8.52
+2022,Weapons,469,Seattle,0.71
+2023,Arson,128,Seattle,0.21
+2023,Other,51803,Seattle,83.87
+2023,Robbery,1428,Seattle,2.31
+2023,Vehicle Theft,7925,Seattle,12.83
+2023,Weapons,481,Seattle,0.78
+2024,Arson,142,Seattle,0.23
+2024,Other,53589,Seattle,86.56
+2024,Robbery,1458,Seattle,2.35
+2024,Vehicle Theft,6212,Seattle,10.03
+2024,Weapons,511,Seattle,0.83
+2025,Arson,141,Seattle,0.25
+2025,Other,50074,Seattle,87.72
+2025,Robbery,1126,Seattle,1.97
+2025,Vehicle Theft,5184,Seattle,9.08
+2025,Weapons,558,Seattle,0.98

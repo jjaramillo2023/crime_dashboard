@@ -1,0 +1,28 @@
+crime_category,crime_count,arrest_count,city,pct_of_total,arrest_rate,crimes_per_100k
+Arson,12295,1589.0,Chicago,0.17,12.92,456.0
+Assault,1822527,407392.0,Chicago,24.91,22.35,67587.2
+Burglary,409543,23595.0,Chicago,5.6,5.76,15187.6
+Domestic / Family,1,1.0,Chicago,0.0,100.0,0.0
+Drugs,728107,724020.0,Chicago,9.95,99.44,27001.4
+Fraud,296183,45533.0,Chicago,4.05,15.37,10983.8
+Gambling,14503,14410.0,Chicago,0.2,99.36,537.8
+Homicide,12588,5898.0,Chicago,0.17,46.85,466.8
+Human Trafficking,66,9.0,Chicago,0.0,13.64,2.4
+Kidnapping,6977,764.0,Chicago,0.1,10.95,258.7
+Offenses Involving Minors,48593,10036.0,Chicago,0.66,20.65,1802.0
+Other,455964,82209.0,Chicago,6.23,18.03,16909.1
+Prostitution,68788,68509.0,Chicago,0.94,99.59,2551.0
+Public Corruption,17746,16369.0,Chicago,0.24,92.24,658.1
+Public Disorder,65337,46756.0,Chicago,0.89,71.56,2423.0
+Robbery,277027,26525.0,Chicago,3.79,9.57,10273.4
+Sex Offenses,57485,12927.0,Chicago,0.79,22.49,2131.8
+Theft,1544341,180324.0,Chicago,21.11,11.68,57270.9
+Trespassing,206652,147602.0,Chicago,2.82,71.43,7663.6
+Vandalism,836259,57672.0,Chicago,11.43,6.9,31012.1
+Vehicle Theft,345906,29956.0,Chicago,4.73,8.66,12827.7
+Weapons,89472,68344.0,Chicago,1.22,76.39,3318.0
+Arson,1871,,Seattle,0.19,,253.8
+Other,904092,,Seattle,89.94,,122629.5
+Robbery,23320,,Seattle,2.32,,3163.1
+Vehicle Theft,69213,,Seattle,6.89,,9387.9
+Weapons,6766,,Seattle,0.67,,917.7

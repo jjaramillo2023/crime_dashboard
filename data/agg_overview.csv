@@ -1,0 +1,3 @@
+city,total_crimes,year_min,year_max,neighborhood_count,arrest_rate,domestic_rate,population,crimes_per_100k
+Chicago,7316360,2001,2024,98,26.93,16.96,2696555,271322.5
+Seattle,1005262,2008,2025,94,,,737255,136352.0
